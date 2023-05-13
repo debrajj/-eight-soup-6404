@@ -1,6 +1,6 @@
 <h1>Rapid Chess</h1>
 
-<p>Rapid Chess is an online chess game platform for chess enthusiasts, developed by a team of five members in just five days. The project is built using a tech stack that includes HTML, CSS, JavaScript, Express, MongoDB, Redis, and Socket.io.</p>
+<p>Rapid Chess is an online chess game platform for chess enthusiasts, developed by a team of five members in just four days. The project is built using a tech stack that includes HTML, CSS, JavaScript, Express, MongoDB, Redis, and Socket.io.</p>
 
 <h2>Features</h2>
 
